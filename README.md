@@ -2,7 +2,7 @@
 
 ## Решения
  * <a href="https://replit.com/@Nephedov93/SalaryNeto#index.js">https://replit.com/@Nephedov93/SalaryNeto#index.js</a>.
- * 
+ * <a href="pic/1.JavaScript.jpg"> Скриншот</a> c replit.
 ## Что было сделано
 * Объявлен массив с зарплатами.
 * Циклами помещены суммы зарплат соответственно индексам.
