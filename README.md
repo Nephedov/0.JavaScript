@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «Знакомство с JavaScript»
 
 ## Решения
- * <a href="https://replit.com/@Nephedov93/SalaryNeto#index.js">https://replit.com/@Nephedov93/SalaryNeto#index.js</a>.
+ * <a href="https://replit.com/@Nephedov93/SalaryNeto#index.js">https://replit.com/@Nephedov93/SalaryNeto#index.js</a> с реализованной логикой.
  * <a href="pic/1.JavaScript.jpg"> Скриншот</a> c replit.
 ## Что было сделано
 * Объявлен массив с зарплатами.
