@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Знакомство с JavaScript»
+# «Знакомство с JavaScript»
 
 ## Решения
  * <a href="https://replit.com/@Nephedov93/SalaryNeto#index.js">https://replit.com/@Nephedov93/SalaryNeto#index.js</a> с реализованной логикой.
